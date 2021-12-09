@@ -1,14 +1,14 @@
 [
   {
-    "modid": "forgetemplate",
-    "name": "ForgeTemplate",
-    "description": "An example template",
+    "modid": "skindownloader",
+    "name": "Skin Downloader",
+    "description": "Skin downloader made in like 10 seconds",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
     "updateUrl": "",
     "authorList": [
-      ""
+      "Wyvest"
     ],
     "credits": "",
     "logoFile": "",
