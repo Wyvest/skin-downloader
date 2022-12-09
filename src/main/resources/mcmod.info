@@ -1,10 +1,10 @@
 [
   {
-    "modid": "skindownloader",
-    "name": "Skin Downloader",
+    "modid": "${id}",
+    "name": "${name}",
     "description": "Skin downloader made in like 10 seconds",
     "version": "${version}",
-    "mcversion": "${mcversion}",
+    "mcversion": "${mcVersionStr}",
     "url": "",
     "updateUrl": "",
     "authorList": [

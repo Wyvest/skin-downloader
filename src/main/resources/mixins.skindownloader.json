@@ -1,0 +1,10 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "minVersion": "0.7",
+    "package": "net.wyvest.skindownloader.mixins",
+    "refmap": "mixins.${id}.refmap.json",
+    "verbose": true,
+    "client": [
+        "SkinManagerAccessor"
+    ]
+}
